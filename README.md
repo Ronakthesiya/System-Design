@@ -1,6 +1,6 @@
 ## 📚 What You'll Learn
 
-1. [Scalability](./Scalability/README.md)
+1. [Scalability](./Scalability/Learn%20Scalability.md)
 
 ## 🤝 Contributions
 
